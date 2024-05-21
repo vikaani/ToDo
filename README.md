@@ -8,7 +8,7 @@ ToDo app is a simple task manager that helps you to get things done.
 
 UIKit, iOS 15+, CoreData, creating UI programmatically.
 
-## Feature
+## Features
 1) User can add task to list;
 2) User can edit task;
 3) User can remove task;
