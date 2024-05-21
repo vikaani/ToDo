@@ -41,7 +41,7 @@ final class TaskItemCell: UITableViewCell {
         super.prepareForReuse()
         
         checkmarkImageView.image = .checkmarkEmpty
-        titleLabel.text = ""
+        titleLabel.attributedText = nil
     }
     
     private func setupViews() {
