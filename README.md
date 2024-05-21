@@ -14,5 +14,4 @@ UIKit, iOS 15+, CoreData, creating UI programmatically.
   
 
 ![Main](https://github.com/vikaani/ToDo/blob/main/Preview/Main.png) | ![TaskContent](https://github.com/vikaani/ToDo/blob/main/Preview/TaskContent.png) 
-
 :-------------------------:|:-------------------------:|
